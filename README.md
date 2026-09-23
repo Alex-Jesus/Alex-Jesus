@@ -31,7 +31,7 @@ Sou estudante de **Bacharelado em Sistemas de Informação (BSI)** no IFMG e des
   
   <br/><br/>
   **Ferramentas & Metodologias** <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Ferramentas" />
 </div>
 
 ---
@@ -39,18 +39,18 @@ Sou estudante de **Bacharelado em Sistemas de Informação (BSI)** no IFMG e des
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=6&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Jesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Jesus&layout=compact&langs_count=6&theme=tokyonight&border_radius=10"/>
   <br/><br/>
   <!-- Gráfico de Streak (Dias seguidos de código) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Jesus&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <h3>📫 Conecte-se comigo</h3>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/alex-jesus-8907302ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
