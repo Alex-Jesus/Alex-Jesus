@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Alex!&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7F05B0,621D7D,3E204A&height=250&section=header&text=Olá,%20eu%20sou%20o%20Alex!&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
