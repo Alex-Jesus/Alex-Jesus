@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Bacharelado em Sistemas de Informação (BSI)** no IFMG e desenvolvedor apaixonado por criar soluções eficientes. Minha jornada na tecnologia é movida por desafios, aprendizado contínuo e pela construção de projetos impactantes.
+Sou estudante de **Bacharelado em Sistemas de Informação (BSI)** no IFMG e desenvolvedor entusiasta em criar soluções eficientes. Minha jornada na tecnologia é movida por desafios, aprendizado contínuo e pela construção de projetos impactantes.
 
 - 🎓 Graduando em BSI no **IFMG**.
 - 💼 Atuo/participei da **OneBit Empresa Júnior**, vivenciando planejamento e práticas reais de mercado.
